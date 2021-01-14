@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.unisoft.core</groupId>
-    <artifactId>unisof-core-workflow</artifactId>
+    <artifactId>unisoft-core-workflow</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>
